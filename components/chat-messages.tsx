@@ -44,7 +44,7 @@ export const ChatMessages = ({ messages, isLoading, companion }: ChatMessagesPro
                     role={message.role}
                     key={message.content}
                     content={message.content}
-                    src={message.src}
+                    src={companion.src}
                 />
             ))}
 
