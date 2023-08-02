@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Aileron-Bold
+font link: http://dotcolon.net/font/aileron/
+font author: dot colon
+font author site: http://dotcolon.net/
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#4F7E48","icon-gradient-1":"#CAE6A5","font":"#000000","slogan":"#141414"}
+      

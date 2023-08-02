@@ -8,6 +8,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { ModeToggle } from "@/components/mode-toggle"
 import { MobileSidebar } from "@/components/mobile-sidebar"
+import Image from "next/image"
 
 const font = Poppins({
     weight: "600",
@@ -21,7 +22,12 @@ export const Navbar = () => {
                 <MobileSidebar />
                 <Link href="/" >
                     <h1 className={cn("hidden md:block text-xl md:text-3xl font-bold text-primary", font.className)}>
-                        companion.ai
+                        <Image
+                            src="/convo ai-logo/profile.png"
+                            alt="logo"
+                            width={180}
+                            height={180}
+                        />
                     </h1>
                 </Link>
             </div>
