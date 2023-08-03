@@ -13,6 +13,7 @@ async function main() {
         { name: 'Animals' },
         { name: 'Philosophy' },
         { name: 'Scientists' },
+        {name: "Fantasy"}
       ],
     });
   } catch (error) {
