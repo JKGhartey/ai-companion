@@ -83,4 +83,4 @@ This project is licensed under the MIT License.
 
 For more information or support, please contact [gharteyjerome@gmail.com](mailto:gharteyjerome@gmail.com).
 
-Visit the AI Companion App on Vercel: [AI Companion App](<[vercel_lin](https://ai-companion-two.vercel.app/)https://ai-companion-two.vercel.app/k>)
+Visit the AI Companion App on Vercel: [AI Companion App](<https://ai-companion-two.vercel.app/>)
