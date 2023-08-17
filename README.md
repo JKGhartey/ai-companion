@@ -1,4 +1,4 @@
-# AI Companion App Readme
+# Convo AI App
 
 Welcome to the AI Companion App! This application offers a groundbreaking experience by enabling users to interact with AI-generated characters, engaging in dynamic conversations that span from casual chitchats to profound discussions. With the perfect blend of cutting-edge technology and creative storytelling, the AI Companion App opens the doors to conversing with celebrities, historical figures, or even characters of your own creation.
 
