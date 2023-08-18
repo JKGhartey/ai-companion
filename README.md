@@ -43,7 +43,17 @@ Before you begin, ensure you have the following installed:
 - Git: [Download and Install Git](https://git-scm.com/)
 
 ### Installation
+1. Clone the repository:
 
+   ```bash
+   git clone (https://github.com/JKGhartey/ai-companion/)
+   ```
+2. Install the required dependencies 
+   
+   ```bash
+   cd ai-companion-app
+   npm install
+   
 ## Engaging in Conversations
 
 1. Log in to the app.
@@ -70,14 +80,6 @@ Before you begin, ensure you have the following installed:
 - Tailwind CSS - A utility-first CSS framework.
 - OpenAI - A language model for generating human-like text.
 - Stripe - A payment gateway for processing online transactions.
-
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
